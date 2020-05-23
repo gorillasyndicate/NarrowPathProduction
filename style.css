@@ -1,0 +1,22 @@
+/* fonts */
+.videogame-text{
+    font-family: 'Press Start 2P', cursive;
+}
+
+.heading-text{
+    font-family: 'Sansita', sans-serif;
+}
+.regular-text{
+    font-family: 'Kameron', serif;
+}
+/*  */
+
+
+#Jumbotron-Header{
+    text-align: center;
+}
+
+.lead{
+    text-align: center;
+    font-size: 1.75rem;
+}
