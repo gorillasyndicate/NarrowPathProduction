@@ -11,7 +11,10 @@
 }
 /*  */
 
-
+/* Jumbotron */
+#NarrowPathJumbotron{
+    background-color: #ffffff;
+}
 #Jumbotron-Header{
     text-align: center;
 }
@@ -19,4 +22,25 @@
 .lead{
     text-align: center;
     font-size: 1.75rem;
+}
+/*  */
+
+#MeetTheTeamHeaderRow{
+    justify-content: center;
+    background-color: gold;
+}
+#MeetTheTeamHeader{
+    text-align: center;
+    font-size: 3.75rem;
+    margin-bottom: 40px;
+}
+#MeetTheTeamText{
+    margin: auto;
+    background-color: gold;
+}
+#LeftCard{
+margin-bottom: 40px;
+}
+#RightCard{
+margin-bottom: 40px;
 }
