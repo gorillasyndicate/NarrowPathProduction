@@ -69,7 +69,10 @@
     display: flex;
     justify-content: center;
     position: absolute;
-    bottom: 70px;
+    bottom: 125px;
+}
+#arrowimg{
+    height: 50px;
 }
 #ArrowText{
     display: flex;
@@ -77,7 +80,7 @@
 }
 #LearnMore{
     position: absolute;
-    bottom: 180px;
+    bottom: 190px;
 }
 /*  */
 
