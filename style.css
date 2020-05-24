@@ -11,6 +11,19 @@
 }
 /*  */
 
+
+#videoimg{
+    margin-right: 10px;
+    margin-bottom: 5px;
+    height: 20px;
+}
+#audioimg{
+    margin-right: 10px;
+    margin-bottom: 5px;
+    height: 20px;
+}
+
+
 /* Jumbotron */
 #NarrowPathJumbotron{
     background-image: url(/NarrowPathProduction/images/Microphone.jpg);
