@@ -34,9 +34,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100%;
     height: -webkit-fill-available;
     opacity: .8;
+    height: 500px;
 }
 #AudioServicesJumbotron{
     background-image: url(/NarrowPathProduction/images/audio.jpg);
@@ -47,9 +47,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100%;
     height: -webkit-fill-available;
     opacity: .7;
+    height: 500px;
 }
 
 /* #JumbotronTextBackground{
@@ -64,6 +64,20 @@
     text-align: center;
     font-size: 1.75rem;
     color: rgb(255, 255, 255);
+}
+#arrow {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    bottom: 70px;
+}
+#ArrowText{
+    display: flex;
+    justify-content: center;
+}
+#LearnMore{
+    position: absolute;
+    bottom: 180px;
 }
 /*  */
 
