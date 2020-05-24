@@ -25,6 +25,33 @@
     height: -webkit-fill-available;
     opacity: .9;
 }
+#VideoServicesJumbotron{
+    background-image: url(/NarrowPathProduction/images/video.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    height: -webkit-fill-available;
+    opacity: .8;
+}
+#AudioServicesJumbotron{
+    background-image: url(/NarrowPathProduction/images/audio.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    height: -webkit-fill-available;
+    opacity: .7;
+}
+
 /* #JumbotronTextBackground{
     background: rgba(114, 114, 114, 0.5);
 } */
