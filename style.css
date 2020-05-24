@@ -13,15 +13,26 @@
 
 /* Jumbotron */
 #NarrowPathJumbotron{
-    background-color: #ffffff;
+    background-image: url(/NarrowPathProduction/images/Microphone.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    height: -webkit-fill-available;
 }
 #Jumbotron-Header{
     text-align: center;
+    color: silver;
 }
 
 .lead{
     text-align: center;
     font-size: 1.75rem;
+    color: silver;
 }
 /*  */
 
